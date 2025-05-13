@@ -16,3 +16,6 @@ Full Stack Developer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
 
+[Arul Sangeeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arul-sangeeth&show_icons=true&theme=radical)
+
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arul-sangeeth&theme=radical)](https://git.io/streak-stats)
